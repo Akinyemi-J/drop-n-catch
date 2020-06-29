@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Akinyemi Jesutobi"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>drop n catch</name>
+
+  <description>
+      A simple catch game.
+  </description>
+
+  <author href="Akinyemi Jesutobi" email="jesutobi14@gmail.com">
+      Hardeep Shoker
+  </author>
+<icon source=icon.jpeg>
+</widget>
